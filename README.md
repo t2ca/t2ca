@@ -1,4 +1,4 @@
-### Hi there 👋
+[![T2 Media](https://www.t2.ca/t2-media-featured-image.png)](https://www.t2.ca)
 
 <!--
 **t2ca/t2ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
