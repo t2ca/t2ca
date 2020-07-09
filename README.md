@@ -1,5 +1,9 @@
 [![T2 Media](https://www.t2.ca/t2-media-featured-image.png)](https://www.t2.ca)
 
+#### Hello 👋
+
+I'm a web designer at [T2 Media](https://www.t2.ca) where we leverage modern web technologies to create blazing fast websites. ⚡
+
 <!--
 **t2ca/t2ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
